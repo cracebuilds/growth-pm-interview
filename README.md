@@ -1,8 +1,9 @@
-# MapleHR — Starter Repo
+# MapleHR — PM Exercise (Expansion Growth)
 
 ## Quick Start
 
-Open `index.html` in your browser. That's it.
+1. **Read the exercise brief below** — your scenario, the challenge, and what we're looking for
+2. **Open `index.html`** in your browser — that's the app
 
 No server, no install, no build step. All data is embedded directly in the HTML file.
 
