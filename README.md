@@ -57,9 +57,9 @@ MapleHR operates on a tiered pricing model:
 
 ## Your Scenario
 
-You've just joined MapleHR as PM for Expansion Growth. The company has 3,000 customers but expansion revenue has been mostly sales-driven — reps manually identify accounts that might upgrade and reach out. There's no systematic, product-led expansion motion.
+You've just joined MapleHR as PM for Expansion Growth. The company has 3,000 customers but expansion revenue has been mostly sales-driven — reps manually identify accounts that might upgrade and reach out.
 
-Leadership wants to change that. The goal: build a product-led expansion engine that makes expansion precise rather than opportunistic.
+Leadership wants to change that. The goal: ensure customers seek BHR first when they are looking to get more out of their HR stack.
 
 Here's what you're working with:
 
@@ -67,8 +67,7 @@ Here's what you're working with:
 
 - **60%** of customers are on Essentials, **28%** on Advantage, **12%** on Premium
 - Customers who upgrade typically do so **6–14 months** after initial purchase
-- Current experiment velocity: ~30 tests/year, mostly email subject lines and landing page variations. No in-product experimentation infrastructure exists
-- There is no unified "intent signal" layer — signals are scattered across Pendo events, support tickets, and CRM notes
+- Current experiment velocity: ~30 tests/year, mostly email subject lines and landing page variations. 
 
 ### Your challenge
 
@@ -87,7 +86,7 @@ As you complete this exercise, you may need to make assumptions. That is totally
 
 1. **Use an AI coding tool** to build your prototype. Claude Code, Codex, Cursor, Copilot, Windsurf — whatever you're most comfortable with. This is a core part of what we're evaluating, and we genuinely want to see your workflow.
 
-2. **Please keep this to around 4 hours.** We want to respect your time. We'd much rather see a well-scoped prototype with clear thinking behind it than something over-engineered. Knowing what to build (and what to leave out) in a limited window is part of the craft.
+2. **Please keep this to around 2-3 hours.** We want to respect your time. We'd much rather see a well-scoped prototype with clear thinking behind it than something over-engineered. Knowing what to build (and what to leave out) in a limited window is part of the craft.
 
 3. **Keep a lightweight process log.** This can be a markdown file, a Loom recording, or screenshots — whatever's easiest for you. We're curious about:
    - What you prompted your AI tool to do (and what you rejected or iterated on)
@@ -122,6 +121,6 @@ If your prototype is rough but your thinking is sharp, that's a great outcome. W
 1. **Your prototype** — built on the starter repo using an AI coding tool
 2. **Your process log** — how you used AI, what decisions you made
 3. **Your one-page brief** — what you built, why, and what comes next
-4. **45 minutes of your time** — to walk us through it in the interview
+4. **A loom or video recording** - walking us through your solution
 
 Good luck. We're excited to see how you think about this.
